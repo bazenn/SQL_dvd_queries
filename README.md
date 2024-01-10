@@ -4,21 +4,26 @@ This is a repo of my SQL project where I practice various SQL queries using the 
 
 ## Database Schema
 
-The dvdrental database consists of 15 tables: actor, film, film_actor, category, film_category, store, inventory, rental, payment, staff, customer, address, city, country, and language. The following ER diagram shows the relationships between these tables.
+The dvdrental database consists of 15 tables: actor, film, film_actor, category, film_category, store, inventory, rental, payment, staff, customer, address, city, country, and language.
 
-!ER diagram
 
 ## Queries
 
-In this project, I wrote SQL queries to answer various questions about the DVD rental business, such as:
+In this project, I wrote SQL queries to answer various questions about the DVD rental business. 
+The queries in this project cover a wide range of SQL concepts, including:
 
-- What are the most popular genres in each country?
-- Which actors have the most loyal customers?
-- How does the staff performance affect the revenue?
-- What are the best months and days to run promotions?
-
+- Basic SELECT statements
+- Filtering and sorting data
+- Joins and subqueries
+- Aggregation functions
+- Window functions
+- Advanced data manipulation
 The queries are organized in ascending order of complexity, from basic queries using SELECT, WHERE, and ORDER BY clauses, to advanced queries using JOIN, GROUP BY, HAVING, and subqueries. You can find the queries and the results in the queries folder.
 
 ## How to Run the Queries
 
-To run the queries, you need to have PostgreSQL installed on your machine. You can download PostgreSQL from here. After installing PostgreSQL, you need to restore the dvdrental database using the dvdrental.tar file. You can find the instructions on how to do that here. Once you have the database ready, you can use any PostgreSQL client, such as pgAdmin or psql, to connect to the database and run the queries.
+To run the queries, you can follow these steps:
+**Load the Database:**
+    - Use a PostgreSQL database.
+    - Load the `dvdrental.tar` file into your PostgreSQL database.
+    - Download the .sql file and open it into your query.
