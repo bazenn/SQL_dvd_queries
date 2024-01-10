@@ -23,6 +23,7 @@ The queries are organized in ascending order of complexity, from basic queries u
 ## How to Run the Queries
 
 To run the queries, you can follow these steps:
+
 **Load the Database:**
     - Use a PostgreSQL database.
     - Load the `dvdrental.tar` file into your PostgreSQL database.
