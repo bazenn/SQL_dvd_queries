@@ -19,7 +19,7 @@ The queries in this project cover a wide range of SQL concepts, including:
 - Window functions
 - Advanced data manipulation
 
-The queries are organized in ascending order of complexity, from basic queries using SELECT, WHERE, and ORDER BY clauses, to advanced queries using JOIN, GROUP BY, HAVING, and subqueries. You can find the queries and the results in the queries folder.
+The queries are organized in ascending order of complexity, from basic queries using SELECT, WHERE, and ORDER BY clauses, to advanced queries using JOIN, GROUP BY, HAVING, and subqueries.
 
 ## How to Run the Queries
 
